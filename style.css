@@ -82,6 +82,13 @@ body {
     color: var(--bgColor);
 }
 
+footer {
+            background-color: var(--bgColor);
+            color: var(--accentColor);
+            text-align: center;
+            padding: 1rem;
+            margin-top: 4rem;
+
 #hashtag {
     position: relative;
     padding-bottom: 20px;
